@@ -9,4 +9,14 @@ Nous avons trouvé une très bonne vidéo pour trouver le matériel nécessaire 
 #Séance du 8 janvier 2018
 
 
-Nous avons travaillé avec l'accéléromètre et nous l'avons emprunté.
+Nous avons travaillé avec l'accéléromètre, en particulier nous avons cherché des librairies utiles au fonctionnement du gyroscope MPU-6050
+(MPU-6050 et i2CScanner) et nous l'avons emprunté pour continuer les recherches chez nous.
+
+
+#Séance du 15 javier 2018
+
+
+
+
+
+
