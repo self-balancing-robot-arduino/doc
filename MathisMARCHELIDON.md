@@ -16,6 +16,9 @@ Nous avons travaillé avec l'accéléromètre, en particulier nous avons cherch�
 #Séance du 15 javier 2018
 
 
+Nous avons pris une carcasse d'un self-balancing-robot d'un ancien élève avec un motor controller L298 et 2 moteurs avec des roues pour faire avancer la carcasse. Nous avons donc fait des essais pour faire avancer ou reculer notre robot plus ou moins vite.
+
+
 
 
 
