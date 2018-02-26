@@ -26,6 +26,12 @@ Nous avons pris une carcasse d'un self-balancing-robot d'un ancien élève avec 
 Nous avons fait notre présentation de 10 minutes sur notre projet et nous avons écouté les présentations des autres groupes pendant une bonne partie de la séance.
 
 
+#Séance du 21 février 2018
+
+
+Nous avons fait marcher nos nouvelles roues (les roues que nous allons utiliser pour le robot final), bien que des problèmes soient arrivés. En effet, nous avons eu un problème de masse commune: il y a une masse pour la carte arduino (pour contrôler le robot avec un programme) et une pour le générateur de tension (pour appliquer une tension de 12 Volt, ce qui n'est pas possible por l'arduino). Nous avons donc dû relier les 2 masses pour que les composants n'aient pas besoin de s'adapter. En effet, quand nous n'avions pas relié les masses, les roues ne tournaient pas à leur vitesse maximale et pas tout le temps (notre programme faisait tourner les roues continuellement et à vitesse maximale). En parallèle, nous avons pris en main l'accéléromètre pour combiner les deux: nous avons réussi à faire tourner les roues dans un sens quand l'accéléromètre donnait une valeur entre  et 0 et 180° et les faire tourner dans l'autre pour les valeurs de 180 à 360°.
+
+
 
 
 
