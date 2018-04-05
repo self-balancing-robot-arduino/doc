@@ -33,6 +33,23 @@ Nous avons fait marcher nos nouvelles roues (les roues que nous allons utiliser 
 
 
 
+#Séance du 21 mars 2018
+;
+Batterie, branchements sur chassis, tests soldés par des échecs et mat
+
+
+
+#Séance du 28 mars
+
+Nous avons écouté les présentations des autres groupes pour être au courant de l'avancement de nos camarades. Nous avons aussi, entre les présentations (pour ne pas déranger ceux qui passaient avec le bruit) , essayé différents réglages sur la puissance des moteurs (augmenter ou diminuer) , qui n'ont pas été fructueux.
+
+
+
+#Séance du 5 avril
+
+Nous avons fait notre présentation de mi-parcours, qui s'appelle présentation_arduino_2 sur github. De plus, nous avons commencé à nous renseigner sur le PID (Proportional, integral , derivative) qui permet à notre robot d'atténuer les oscilations quand il se remet droit, ce qui réglerait au moins en bonne partie notre problème d'équilibre.
+
+
 
 
 
