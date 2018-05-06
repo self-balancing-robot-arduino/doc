@@ -50,6 +50,11 @@ Nous avons écouté les présentations des autres groupes pour être au courant 
 Nous avons fait notre présentation de mi-parcours, qui s'appelle présentation_arduino_2 sur github. De plus, nous avons commencé à nous renseigner sur le PID (Proportional, integral , derivative) qui permet à notre robot d'atténuer les oscilations quand il se remet droit, ce qui réglerait au moins en bonne partie notre problème d'équilibre.
 
 
+#Séance du 4 mai
+
+Monsieur Masson nous avait donné une batterie plus grosse que notre ancienne pour continuer à avancer sur le PID chez nous
+
+
 
 
 
