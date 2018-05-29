@@ -1,4 +1,71 @@
-Séance du 18 décembre 2017
+Séance du 18 décembre 
 
 
-Pour choisir notre projet, nous avons fait un brainstroming
+Pour choisir notre projet, nous avons fait un brainstroming et nous avons pris la décision de faire un self-balancing-robot.
+
+
+Séance du 8 janvier
+
+
+Nous avons travaillés avec les MPU-6050 (accéléromètre et gyroscope) en cherchant des librairies comme MPU-6050 et I2CScanner.
+
+
+
+Séance du 15 janvier 
+
+
+Nous avons étudié le self-balancing-robot d'un anien élève et trouvé comment le faire avancer ou reculer.
+
+
+Séance du 22 janvier
+
+
+Nous avons notre présentation de début de projet et avons écoutés celle des autres pour nous renseigner sur leurs projets et leurs idées.
+
+
+
+Séance du 21 février
+
+
+Nous avons reçus nos nouvelles roues et nous les avons fait marcher. Mais elles ne roulaient pas à la même vitesse et nous ne savions pas
+pourquoi. La réponse était un problème de masse commune: la masse du générateur de tension qui nos fournissait le 12V pour nos roues et 
+la masse de la carte arduino n'étaient pas reliés, ce qui créait un problème. De plus, nous avons codé un programme pour que quand 
+l'accéléromètre donnait une valeur positive, les roues tournent dans un sens et quand il donnait une valeur négative, les roues tournent 
+dans l'autre sens: un prémice pour pouvoir équilibrer le robot.
+
+
+Séance du 21 mars 
+
+
+
+Nous avons reçu notre batterie pour ne pas avoir à alimenter notre robot avec le générateur de tension tout le temps et nous l'avons 
+relié à notre moteur driver.
+
+
+Séance du 28 mars
+
+
+
+Nous avons écouté les présentation de mi-parcours des autres groupes et travaillés sur la puissance de moteurs sansque ce travail ne soit 
+efficace.
+
+
+
+Séance du 5 avril
+
+
+C'était à notre tour pour la présentation de mi-parcours, mais depuis la dernière séance, nous avons cherché comment faire un PID, sur 
+conseils de Monsieur Masson et Monsieur Ferrero pour le stabiliser (moins d'oscillations et temps de réponse diminué).
+
+Séance du 10 avril
+
+
+Nous avons commencés à faire un code pour le PID, en tenant compte de l'erreuur précèdente et de la somme des erreurs .
+
+
+Séance du 14 mai
+
+
+Nous avons essayé sans succès d'implementer le PID à la main, mais le robot était toujours instable, dû notamment aux imprécisions de l'accéléromètre.
+
+
